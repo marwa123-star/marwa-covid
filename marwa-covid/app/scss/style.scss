@@ -273,73 +273,74 @@
     box-shadow: #1078AD;
     font-family: 'Cairo', sans-serif;
     margin-left: 330px;
-
-    padd .section4 img {
-      align-items: center;
-    }
-
-    .section5 {
-      align-items: center;
-      font-family: 'cairo', sans-serif;
-
-    }
-
-
-    .whole2 {
-      display: grid;
-      grid-template-columns: auto auto auto;
-      margin-left: 100px;
-      padding: 10px;
-      margin-top: 20px;
-    }
-
-    .word {
-      color: #1078AD;
-      font-family: 'Cairo', sans-serif;
-    }
-
-    .btn2 {
-      border-radius: 10px;
-      font-family: 'Cairo', sans-serif;
-      width: 40%;
-      font-weight: bold;
-      font-size: 17px;
-      border-style: ridge;
-      text-align: center;
-      height: 30px;
-
-    }
-
-    .section5 img {
-      margin-left: 600px;
-      margin-top: 20px;
-    }
-
-    .part1 {
-      line-height: 50px;
-    }
-
-    .part2 {
-      text-align: center;
-      line-height: 40px;
-      font-family: 'cairo'sans-serif;
-    }
-
-    .part2 h3 {
-      color: #1078AD;
-      font-family: 'cairo', sans-serif;
-      font-size: x-large;
-    }
-
-    .part2 p {
-      color: #369D53;
-      font-weight: bolder;
-    }
-
-    .part3 {
-      color: #7F7F7F;
-      margin-top: 60px;
-      font-weight: lighter;
-    }
   }
+
+  padd .section4 img {
+    align-items: center;
+  }
+
+  .section5 {
+    align-items: center;
+    font-family: 'cairo', sans-serif;
+
+  }
+
+
+  .whole2 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-left: 100px;
+    padding: 10px;
+    margin-top: 20px;
+  }
+
+  .word {
+    color: #1078AD;
+    font-family: 'Cairo', sans-serif;
+  }
+
+  .btn2 {
+    border-radius: 10px;
+    font-family: 'Cairo', sans-serif;
+    width: 40%;
+    font-weight: bold;
+    font-size: 17px;
+    border-style: ridge;
+    text-align: center;
+    height: 30px;
+
+  }
+
+  .section5 img {
+    margin-left: 600px;
+    margin-top: 20px;
+  }
+
+  .part1 {
+    line-height: 50px;
+  }
+
+  .part2 {
+    text-align: center;
+    line-height: 40px;
+    font-family: 'cairo'sans-serif;
+  }
+
+  .part2 h3 {
+    color: #1078AD;
+    font-family: 'cairo', sans-serif;
+    font-size: x-large;
+  }
+
+  .part2 p {
+    color: #369D53;
+    font-weight: bolder;
+  }
+
+  .part3 {
+    color: #7F7F7F;
+    margin-top: 60px;
+    font-weight: lighter;
+  }
+
 }
